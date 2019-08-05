@@ -11,13 +11,10 @@ function IndexPage() {
                 keywords={[`scampitown`, `tom styan`]}
             />
 
-            <div className="flex items-center justify-center h-screen">
-
-                <div className="text-white font-bold font-serif p-10 text-4xl hover:underline">
-                    <a href="/scampitown">Welcome to Scampitown</a>
-                </div>
-
-            </div>
+            <section className="text-center">
+                <iframe src="https://indd.adobe.com/embed/8e6a39d1-6158-412b-8841-a35ec05f7505?startpage=1&allowFullscreen=false"
+                        className="iframe w-full h-screen" frameBorder="0" allowFullScreen=""></iframe>
+            </section>
         </Layout>
     );
 }
