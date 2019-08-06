@@ -14,7 +14,7 @@ function IndexPage() {
 
             <div className="flex items-center justify-center h-screen">
 
-                <div className="text-white font-bold font-serif p-10 text-4xl hover:underline"
+                <div className="text-white font-bold font-serif p-10 text-4xl hover:underline">
                     <Link to="/scampitown">
                         <span className="tracking-tight">Welcome to Scampitown</span>
                     </Link>
