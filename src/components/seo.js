@@ -36,6 +36,10 @@ function SEO({ description, lang, meta, keywords, title }) {
                 content: `website`
               },
               {
+                property: `og:image`,
+                content: `https://i.imgur.com/K8o0pDQ.png`
+              },
+              {
                 name: `twitter:card`,
                 content: `summary`
               },
