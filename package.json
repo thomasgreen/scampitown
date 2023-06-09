@@ -3,7 +3,7 @@
   "description": "Scampitown website",
   "version": "1.0.0",
   "dependencies": {
-    "gatsby": "2.13.31",
+    "gatsby": "4.25.7",
     "gatsby-plugin-manifest": "2.2.3",
     "gatsby-plugin-offline": "2.2.4",
     "gatsby-plugin-postcss": "2.1.2",
